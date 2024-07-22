@@ -1,0 +1,3 @@
+cons minaferro 0 0
+cont len
+debed serracao 1 1
