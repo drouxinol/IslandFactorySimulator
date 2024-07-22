@@ -3,6 +3,7 @@
 Project Description
 
 This project was developed as part of the Object-Oriented Programming course in the 2nd year of the Bachelor's degree in Computer Engineering. The goal was to create a simulation game focused on construction and development, where a player must industrialize and expand a given island.
+
 Project Objective
 
 The aim is to build a C++ simulator/game (single-player) of construction and development. The player is granted the concession of an island and must develop it by industrializing and building a factory complex. The geography of the island consists of a set of adjacent zones, with various types of zones possible. The player can construct buildings, which will be placed in the zones chosen by the player (maximum one building per zone). The player will manage a team of workers, including various types of workers. The player can move workers around the island to perform their tasks. Throughout the game, resources produced on the island will be used. The game is controlled by actions specified by the player through written commands.
